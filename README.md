@@ -86,11 +86,3 @@ Here are some ideas to get you started:
         <img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" height="50" />
     </a>
 </div>
-
-<br/>
-
-## Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlquake&show_icons=true&locale=en&layout=compact" alt="dlquake" width="45%"/></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dlquake&show_icons=true&locale=en" alt="dlquake" width="45%"/></p>
