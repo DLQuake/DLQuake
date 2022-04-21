@@ -24,9 +24,6 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/DLQuake2022" target="_blank">
         <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
-    <a href="https://discord.gg/5471">
-        <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;"/>
-    </a>
 </div>
 
 
