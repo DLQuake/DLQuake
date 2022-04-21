@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **dominiklewczynski@gmail.com**
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/DLQuake)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/DLQuake?tab=repositories)
 
 - ⚡ Fun fact: I think I am funny
 
