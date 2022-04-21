@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-<div align="center">I am 3rd year student of Computer science at University of Warmia and Mazury in Olsztyn. I am interesting frontend developer and I like making web applications and I am interested astronomy and aircraft.</div>  
-
+<div align="center">I'm 3rd year student of Computer science at <a href="http://www.uwm.edu.pl/en">University of Warmia and Mazury in Olsztyn</a>.</div>
 
 <br/>
 
