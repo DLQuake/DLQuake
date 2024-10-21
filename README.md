@@ -7,7 +7,7 @@ I am a person:
 - Organised and focused on achieving goals
 - Communicative
 - Eager to develop
-- 1Open to new challenges and experiences
+- Open to new challenges and experiences
 
 
 ## 🌐 Socials:
