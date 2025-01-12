@@ -1,13 +1,15 @@
 # Hi there 👋! My name is Dominik Lewczyński
 
 ## 💫 About Me:
-I am a Frontend Developer with a passion for creating modern websites. I have more than a year of experience in the IT industry, mainly in the field of technology, information and Internet. I graduated with a Master's degree in Computer Science from the University of Warmia and Mazury in Olsztyn, specialising in ‘Data Science in practice’.
+Working in the IT industry for over a year, I am currently developing as a Frontend Developer, focusing on designing, developing and implementing modern, functional and attractive web applications. I graduated with a Master’s degree in Computer Science from the University of Warmia and Mazury in Olsztyn with a specialization in “Data Science in practice”, which taught me how to think analytically and work effectively with data.
 
-I am a person:
-- Organised and focused on achieving goals
-- Communicative
-- Eager to develop
-- Open to new challenges and experiences
+In my work I focus on:
+- Realization of goals in a thoughtful and effective manner
+- Collaboration and effective communication within the team
+- Continuous development of technical and non-technical skills
+- Taking on new challenges that support personal and professional development
+
+My ambition is to grow as a Frontend Developer through challenging projects that combine modern technologies with real user needs. I am looking for a company that values innovation, self-improvement and teamwork. I am motivated to gain experience that will allow me to become an expert in the industry
 
 
 ## 🌐 Socials:
