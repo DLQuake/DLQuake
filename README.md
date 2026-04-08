@@ -71,6 +71,7 @@ My ambition is to grow as a Frontend Developer through challenging projects that
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013.svg?style=for-the-badge\&logo=github\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
+![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-00979D?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 
 ### 🧠 Data Science
